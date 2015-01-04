@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My notes]]></title>
   <link href="http://makiton.github.io/atom.xml" rel="self"/>
   <link href="http://makiton.github.io/"/>
-  <updated>2015-01-04T17:09:48+09:00</updated>
+  <updated>2015-01-04T18:16:03+09:00</updated>
   <id>http://makiton.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[makiton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://makiton.github.io/blog/2015/01/04/test/"/>
+    <updated>2015-01-04T18:11:20+09:00</updated>
+    <id>http://makiton.github.io/blog/2015/01/04/test</id>
+    <content type="html"><![CDATA[<p>Test投稿です</p>
+]]></content>
+  </entry>
   
 </feed>
