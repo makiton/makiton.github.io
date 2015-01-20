@@ -3,7 +3,7 @@ layout: post
 title: "[読書ノート]商品を売るな"
 date: 2015-01-05 00:30:30 +0900
 comments: true
-categories: 読書ノート
+categories:
 ---
 
 # 商品を売るな
